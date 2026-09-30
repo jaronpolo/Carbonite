@@ -3,13 +3,13 @@ A from-scratch PowerPC emulator, targeting right from the PM 6100 to the PM G5 (
 It features a cycle-accurate 601 processor at 60MHz, as well as a PowerPC 750 (G3) processor. Both have an optional dynamic recompiler, that achieves over 100% of real hardware speed, under optimal conditions.
 
 From what I have tested, this emulator can run various operating systems:
-## Copland:
+### Copland:
 - D7E1
 - D9
 - D11E4
-## Mac OS 9.x
+### Mac OS 9.x
 - 9.1
-## Mac System Software 7.x
+### Mac System Software 7.x
 - 7.1.2
   
 The current machine targets are:
