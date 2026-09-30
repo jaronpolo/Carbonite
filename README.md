@@ -17,7 +17,11 @@ The current machine targets are:
 - the codename "Yosemite" Power Macintosh G3 (Blue and White)
 
 # Screenshots
-An emulated Power Mac 6100 running Copland build D9.<img width="752" height="624" alt="Screenshot 2026-09-30 at 10 12 56 PM" src="https://github.com/user-attachments/assets/29ac4bab-7c75-45f6-ac66-1e43caca117f" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29ac4bab-7c75-45f6-ac66-1e43caca117f" width="450" alt="An emulated Power Mac 6100 running Copland build D9.">
+  <br>
+  <em>An emulated Power Mac 6100 running Copland build D9.</em>
+</p>
 
 
 # AI disclaimer
